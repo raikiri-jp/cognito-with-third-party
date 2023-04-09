@@ -1,0 +1,3 @@
+[submodule "src/backend/laravel-cognito-backend"]
+	path = src/backend/laravel-cognito-backend
+	url = https://github.com/raikiri-jp/laravel-cognito-backend.git
